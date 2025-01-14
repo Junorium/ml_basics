@@ -9,5 +9,7 @@ feature transformations, standard supervised and unsupervised algorithms
 * Log transformations
 
 # Supervised Algorithms
+* Regression (continuous)
+* Classification (discrete)
 
 # Unsupervised Algorithms
